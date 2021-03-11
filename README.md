@@ -1,6 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+[![Build Status](https://travis-ci.com/yzr1996/Rpackage.svg?branch=master)](https://travis-ci.com/yzr1996/Rpackage)
 **NOTE: This is a toy package created for expository purposes, for the
 second edition of [R Packages](https://r-pkgs.org). It is not meant to
 actually be useful. If you want a package for factor handling, please
